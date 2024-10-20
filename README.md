@@ -9,6 +9,7 @@ Workflow
 Dataset
 The dataset is sourced from TMDb. It contains information about movies such as title, genres, keywords, cast, and crew.
 
+
 ### Technologies Used
 ```Python```
 
@@ -17,3 +18,4 @@ The dataset is sourced from TMDb. It contains information about movies such as t
 ```Pickle``` for storing the processed data
 
 ```Scikit-learn``` for cosine similarity calculation
+ Vectorization of Data is done. 
